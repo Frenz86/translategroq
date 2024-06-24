@@ -3,4 +3,4 @@ faster_whisper
 streamlit
 audio_recorder_streamlit
 python-dotenv
-python-decouple
+groq
