@@ -1,6 +1,6 @@
 gTTS
 faster_whisper
-streamlit==1.36.0
 audio_recorder_streamlit
 python-dotenv
 groq
+streamlit==1.36.0
